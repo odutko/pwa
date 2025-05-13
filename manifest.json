@@ -1,6 +1,7 @@
 {
     "name": "My test PWA",
     "short_name": "PWA",
+    "id": "/pwa/index.html",
     "start_url": "/pwa/index.html",
     "display": "standalone",
     "background_color": "#ffffff",
